@@ -1,0 +1,11 @@
+ProjectDescription:
+----------------------
+What all technologies i will use in this project.
+1. Spring
+2. Java
+3. Hibernate
+4. Html
+5. Css
+6. Javascript
+7. Jsp
+8. Mysql

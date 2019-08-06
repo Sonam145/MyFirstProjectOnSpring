@@ -9,3 +9,5 @@ What all technologies i will use in this project.
 6. Javascript
 7. Jsp
 8. Mysql
+9. Jstl tag
+10.Json
